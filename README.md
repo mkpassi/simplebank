@@ -1,0 +1,2 @@
+# simplebank
+go basic webapp
